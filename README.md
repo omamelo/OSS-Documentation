@@ -209,3 +209,24 @@ local route = {
 	},
 }
 ```
+5. Tento script po této úpravě můžeme zavřít
+6. Otevřeme si scrolling frame ve VehicleSeatu na pozici "VehicleSeat;Route;Frame;Frame"
+7. Vevnitř jsou dva buttony. Na první z nich klikneme a změníme property Text na tu linku kterou potřebujeme. U nás tedy "Praha Hl. N. - Praha Braník"
+8. Druhý Textbutton smažeme
+9. Popřípadě se ten button duplikuje a posouvá, název se měnit nemusí
+10. Vevnitř se nachází Script, otevřete ho
+11. Nás bude zajímat stránka řádek 7
+```lua
+	local module = require(game.ServerScriptService.Kosice_Bratislava)
+```
+12. Změníme ho na náš název našeho Modulu. Po změně by to mělo vypadat takhle
+```lua
+	local module = require(game.ServerScriptService.Hlavak_Branik)
+```
+**Takhle se dá vytvořit nová linka**
+
+---
+- **Problémy**
+
+Kdyby se objevila jakákoli chyba, nebo se chcet na něco zeptat, kontaktujte mě na discordu omamelo#1891
+Odkaz na model: 
