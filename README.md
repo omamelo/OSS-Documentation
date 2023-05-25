@@ -1,0 +1,2 @@
+# Infosystem
+Dokumentace k systému
