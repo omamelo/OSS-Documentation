@@ -229,4 +229,3 @@ local route = {
 - **Problémy**
 
 Kdyby se objevila jakákoli chyba, nebo se chcet na něco zeptat, kontaktujte mě na discordu omamelo#1891
-Odkaz na model: 
