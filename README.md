@@ -46,7 +46,7 @@ return module
 ```
 Po:
 ```lua
-local module = {{game.Workspace.Tabule.ZSSK, game.Workspace.Tabule.CD1, game.Workspace.Tabule.CD2}
+local module = {{game.Workspace.Tabule.ZSSK, game.Workspace.Tabule.CD1, game.Workspace.Tabule.CD2}}
 
 return module
 ```
