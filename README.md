@@ -5,7 +5,7 @@
 **Dokumentace je celá napsána v českém jazyce. ‼️For non-czech speakers, ask for translation via my Discord omamelo#1891‼️**
 
 ---
-- **Začátečné rozpoložení**
+### Začátečné rozpoložení
 
 Na začátku se ve workspaci objeví folder s názvem "Unicontrols - Infopanely"
 
@@ -19,7 +19,7 @@ Všechny části systému jsou ve folderi rozložené podle toho, jaký Parent m
 Po tomhle kroku by měl být systém plně funkční. Folder "Unicontrols - Infopanely" i s vnořenýma folderama můžete smazat.
 
 ---
-- **Resize**
+### Resize
 
 V modelu "Tabule" se nacházejí dva party o velikosti 21.1 na 11 studs. Jde je zmenšit, v případě problému se zmenšováním nastavte požadovanou velikost partu a vevnitř partu najděte SurfaceGUI pod názvem "ZSSK" u obou typů a v okénku Properties najděte property PixelsPerStud a pohrajte si s tím číslem. 
 
@@ -27,7 +27,7 @@ V modelu "Tabule" se nacházejí dva party o velikosti 21.1 na 11 studs. Jde je 
 ![Snímka obrazovky 2023-05-25 174553](https://github.com/omamelo/Infosystem/assets/113608366/aec2fb35-997d-4548-8905-543ac015e2a7)
 
 ---
-- **Vytváření nových panelů**
+### Vytváření nových panelů
 
 Jestli potřebujete víc než jeden panel, je to možné.
 1. Zajděte do modelu "Tabule" a najděte panel který chcete zduplikovat, zduplikujte ho a přesuňte na požadované místo
@@ -53,9 +53,9 @@ return module
 Tento ModuleScript používejte i tehdy když měníte název nebo pozici tabule
 
 ---
--**Vytváření nové linky**
+### Vytváření nové linky
 
-Na začátku jsou k dispozici dvě základní linky. Košice-Bratislava a Košice-Humenné. Tieto linky jde změnit. Následujte tyto pokyny
+Na začátku jsou k dispozici dvě základní linky. Košice-Bratislava a Košice-Humenné. Tyto linky jde změnit. Následujte tyto pokyny
 
 Řekněme si, že chceme založit linku Praha Hl. N.- Praha Braník.
 1. Jako první zduplikujeme jeden z dvou ModuleScriptů uložených ve ServerScriptService.
@@ -165,7 +165,7 @@ Na prvním řádku je napsáno "EX 610". Toto je číslo vlaku. Tento údaj si m
 
 Na druhý řádek si napíšeme "Praha Hl. N. - Praha Braník"
 
-Třetí řádek obsahuje zatím string "StartingTime" který se změní, můžete ho změnit na cokoliv ale můžete ho nechat
+Třetí řádek obsahuje zatím string "StartingTime" který se změní, můžete ho změnit na cokoliv ale taky ho můžete nechat
 
 Na čtvrtém řádku začíná slovník linky. Každá stanice obsahuje Nazev, Plustime, waiting_time, arrival a departure. Nazev se zmeni na nazev stanice, který potřebujeme. Plustime značí vzdálenost v minutách od odjezdu z minulé stanice do příjezdu do týto stanice. waiting_time určuje čas strávený ve stanici. arrival a departure nechte takhle. 
 
@@ -215,7 +215,7 @@ local route = {
 8. Druhý Textbutton smažeme
 9. Popřípadě se ten button duplikuje a posouvá, název se měnit nemusí
 10. Vevnitř se nachází Script, otevřete ho
-11. Nás bude zajímat stránka řádek 7
+11. Nás bude zajímat řádek 7
 ```lua
 	local module = require(game.ServerScriptService.Kosice_Bratislava)
 ```
@@ -226,6 +226,13 @@ local route = {
 **Takhle se dá vytvořit nová linka**
 
 ---
-- **Problémy**
+### Problémy
 
-Kdyby se objevila jakákoli chyba, nebo se chcet na něco zeptat, kontaktujte mě na discordu omamelo#1891
+Kdyby se objevila jakákoli chyba, nebo se chcet na něco zeptat, kontaktujte mě na discordu **omamelo#1891**
+
+---
+### Licence
+
+Tento model a systém je plně přístupný všem lidem, který si ho koupili. Jakékoliv zdílení lidem kteří si tento model nezakoupili je zakázáno
+
+Logo ZSSK je majetkem společnosti Železničná spoločnosť Slovensko a logo ČD je majetkem společnosti České dráhy
