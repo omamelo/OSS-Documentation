@@ -217,11 +217,11 @@ local route = {
 10. Vevnitř se nachází Script, otevřete ho
 11. Nás bude zajímat řádek 7
 ```lua
-	local module = require(game.ServerScriptService.Kosice_Bratislava)
+local new_module = game.ServerScriptService.Kosice_Bratislava:Clone(script.Parent)
 ```
 12. Změníme ho na náš název našeho Modulu. Po změně by to mělo vypadat takhle
 ```lua
-	local module = require(game.ServerScriptService.Hlavak_Branik)
+local new_module = game.ServerScriptService.Hlavak_Branik:Clone(script.Parent)
 ```
 **Takhle se dá vytvořit nová linka**
 
