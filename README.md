@@ -161,17 +161,11 @@ local route = {
 ```
 Cokoliv za touhle složenou závorkou zůstává stejné takže nás to nezajímá 
 
-Na prvním řádku je napsáno "EX 610". Toto je číslo vlaku. Tento údaj si můžete změnit. My si napíšeme "Os 6688"
+Tenhle Module script si můžete vytvořit přes nástroj speciálně určený na tohle na adrese: [https://omameloscriptservices.000webhostapp.com/Infopanely/](url)
 
-Na druhý řádek si napíšeme "Praha Hl. N. - Praha Braník"
+Když pak kliknete "Vytvořit linku", to co se vám ukázalo, můžete zkopírovat a vyměnit za to, co tam je doteď.
 
-Třetí řádek obsahuje zatím string "StartingTime" který se změní, můžete ho změnit na cokoliv ale taky ho můžete nechat
-
-Na čtvrtém řádku začíná slovník linky. Každá stanice obsahuje Nazev, Plustime, waiting_time, arrival a departure. Nazev se zmeni na nazev stanice, který potřebujeme. Plustime značí vzdálenost v minutách od odjezdu z minulé stanice do příjezdu do týto stanice. waiting_time určuje čas strávený ve stanici. arrival a departure nechte takhle. 
-
-Pro real-life časy si můžete časy odjezdů najít na internetu, jestli tabule používáte na fiktivní železnici, časy jsou jen na vás.
-
-Až se napíšou všechny stanice, zbylé můžete smazat, musí zůstat poslední složená závorka. Popřípadě můžete nějaké stanice nakopírovat. Po dokončení naší práce bude náš script vypadat takhle
+Výsledek může mít i takovouhle podobu:
 ```lua
 local route = {
 	"Os 6688",
