@@ -161,7 +161,7 @@ local route = {
 ```
 Cokoliv za touhle složenou závorkou zůstává stejné takže nás to nezajímá 
 
-Tenhle Module script si můžete vytvořit přes nástroj speciálně určený na tohle na [adrese]([url](https://omameloscriptservices.000webhostapp.com/Infopanely/))
+Tenhle Module script si můžete vytvořit přes nástroj speciálně určený na tohle na [adrese](https://omameloscriptservices.000webhostapp.com/Infopanely/)
 
 Když pak kliknete "Vytvořit linku", to co se vám ukázalo, můžete zkopírovat a vyměnit za to, co tam je doteď.
 
