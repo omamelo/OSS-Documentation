@@ -2,7 +2,7 @@
 ## Dokumentace k systému
 **Je důležité, aby jste si dokumentaci přečetli celou a dělali přesně to co vám bude řečeno, jinak infopanely nebudou fungovat.**
 
-**Dokumentace je celá napsána v českém jazyce. ‼️For non-czech speakers, ask for translation via my Discord omamelo#1891‼️**
+**Dokumentace je celá napsána v českém jazyce. ‼️For non-czech speakers, ask for translation via my Discord omamelo‼️**
 
 ---
 ### Začátečné rozpoložení
