@@ -29,7 +29,7 @@
 
 ![image](https://github.com/omamelo/OSS-Documentation/assets/113608366/27be5d63-006f-47a3-b8d7-cff1d1beb72f)
 
-**Odkaz k dokumentaci: [zatím není sepsána](https://github.com/omamelo/OSS-Documentation/GroupRankingSystem.md)**
+**Odkaz k dokumentaci: [tady](https://github.com/omamelo/OSS-Documentation/GroupRankingSystem.md)**
 
 **Cena:** Součástí Basic plánu
 
