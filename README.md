@@ -4,12 +4,12 @@
 ---
 ## Rychlé odkazy:
 ### Infosystém Unicontrols DIS-218:
-- [Dokumentace](https://github.com/omamelo/blob/OSS-Documentation/Infopanely.md)
-- [V tomto souboru](https://github.com/omamelo/OSS-Documentation/README.md#infosystém-unicontrols-dis-218-1)
+- [Dokumentace](https://github.com/omamelo/blob/main/OSS-Documentation/Infopanely.md)
+- [V tomto souboru](https://github.com/omamelo/blob/main/OSS-Documentation/README.md#infosystém-unicontrols-dis-218-1)
 
 ### Group Ranking System
-- [Dokumentace](https://github.com/omamelo/OSS-Documentation/GroupRankingSystem.md)
-- [V tomto souboru](https://github.com/omamelo/OSS-Documentation/README.md#group-ranking-system)
+- [Dokumentace](https://github.com/omamelo/blob/main/OSS-Documentation/GroupRankingSystem.md)
+- [V tomto souboru](https://github.com/omamelo/blob/main/OSS-Documentation/README.md#group-ranking-system)
 
 ---
 
