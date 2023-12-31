@@ -15,6 +15,9 @@ Všechny části systému jsou ve folderi rozložené podle toho, jaký Parent m
 1. Jako první přesuňte obě dvě položky z folderu "ReplicatedStorage" do "ReplicatedStorage"
 2. Přesuňte script "API" z folderu "ServerScriptService" do "ServerScriptService"
 3. Přesuňte ScreenGui z folderu "StarterGui" do "StarterGui"
+4. V Game Settings vaší hry v "Security" povolte "Allow HTTP requests"
+   
+![image](https://github.com/omamelo/OSS-Documentation/assets/113608366/b8730a09-869e-43a5-8b79-83606e88e00d)
 
 Po skončení přesouvání můžete tento folder zničit
 
