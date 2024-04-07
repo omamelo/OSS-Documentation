@@ -1,6 +1,6 @@
 # Group Ranking System
 ## Dokumentace k systému
-**Je důležité, aby jste si dokumentaci přečetli celou a dělali přesně to co vám bude řečeno, jinak infopanely nebudou fungovat.**
+**Je důležité, aby jste si dokumentaci přečetli celou a dělali přesně to co vám bude řečeno, jinak systém nebude fungovat.**
 
 **Dokumentace je celá napsána v českém jazyce. ‼️For non-czech speakers, ask for translation via my Discord omamelo‼️**
 
